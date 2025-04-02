@@ -7,6 +7,10 @@ mkdir -p rsju/kuna/endra
 ls
 pwd
 ls
+dvd
+vd
+b
+bf  helo worls how are you amn this is just the fetch iam checking out
 mkdir /opt/edureka
 sudo i
 sudo su -i
