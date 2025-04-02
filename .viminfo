@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1743438719,,"wq!"
+|2,0,1743611655,,"wq!"
 :q!
 |2,0,1742835475,,"q!"
 
@@ -27,230 +27,265 @@
 # Registers:
 
 # File marks:
-'0  13  0  ~/index3.html
-|4,48,13,0,1743438719,"~/index3.html"
-'1  27  0  ~/index3.html
-|4,49,27,0,1743438676,"~/index3.html"
-'2  15  0  ~/index3.html
-|4,50,15,0,1743438676,"~/index3.html"
-'3  32  0  ~/index.html
-|4,51,32,0,1743438637,"~/index.html"
-'4  9  0  ~/index2.html
-|4,52,9,0,1743438601,"~/index2.html"
-'5  1  0  ~/project/index.html
-|4,53,1,0,1743316851,"~/project/index.html"
-'6  32  0  ~/shell.sh
-|4,54,32,0,1742835926,"~/shell.sh"
-'7  23  0  ~/file
-|4,55,23,0,1742835475,"~/file"
-'8  28  0  ~/file
-|4,56,28,0,1742835414,"~/file"
-'9  20  0  ~/file
-|4,57,20,0,1742835414,"~/file"
+'0  3  0  ~/ind5.html
+|4,48,3,0,1743611655,"~/ind5.html"
+'1  3  0  ~/ind4.html
+|4,49,3,0,1743611640,"~/ind4.html"
+'2  3  0  ~/ind3.html
+|4,50,3,0,1743611581,"~/ind3.html"
+'3  3  0  ~/ind1.html
+|4,51,3,0,1743611560,"~/ind1.html"
+'4  1  40  ~/ind.html
+|4,52,1,40,1743611476,"~/ind.html"
+'5  13  0  ~/index3.html
+|4,53,13,0,1743438719,"~/index3.html"
+'6  27  0  ~/index3.html
+|4,54,27,0,1743438676,"~/index3.html"
+'7  15  0  ~/index3.html
+|4,55,15,0,1743438676,"~/index3.html"
+'8  32  0  ~/index.html
+|4,56,32,0,1743438637,"~/index.html"
+'9  9  0  ~/index2.html
+|4,57,9,0,1743438601,"~/index2.html"
 
 # Jumplist (newest first):
+-'  3  0  ~/ind5.html
+|4,39,3,0,1743611655,"~/ind5.html"
+-'  1  0  ~/ind5.html
+|4,39,1,0,1743611647,"~/ind5.html"
+-'  3  0  ~/ind4.html
+|4,39,3,0,1743611640,"~/ind4.html"
+-'  3  0  ~/ind4.html
+|4,39,3,0,1743611640,"~/ind4.html"
+-'  1  0  ~/ind4.html
+|4,39,1,0,1743611629,"~/ind4.html"
+-'  1  0  ~/ind4.html
+|4,39,1,0,1743611629,"~/ind4.html"
+-'  3  0  ~/ind3.html
+|4,39,3,0,1743611581,"~/ind3.html"
+-'  3  0  ~/ind3.html
+|4,39,3,0,1743611581,"~/ind3.html"
+-'  3  0  ~/ind3.html
+|4,39,3,0,1743611581,"~/ind3.html"
+-'  3  0  ~/ind3.html
+|4,39,3,0,1743611581,"~/ind3.html"
+-'  1  0  ~/ind3.html
+|4,39,1,0,1743611566,"~/ind3.html"
+-'  1  0  ~/ind3.html
+|4,39,1,0,1743611566,"~/ind3.html"
+-'  1  0  ~/ind3.html
+|4,39,1,0,1743611566,"~/ind3.html"
+-'  1  0  ~/ind3.html
+|4,39,1,0,1743611566,"~/ind3.html"
+-'  3  0  ~/ind1.html
+|4,39,3,0,1743611560,"~/ind1.html"
+-'  3  0  ~/ind1.html
+|4,39,3,0,1743611560,"~/ind1.html"
+-'  3  0  ~/ind1.html
+|4,39,3,0,1743611560,"~/ind1.html"
+-'  3  0  ~/ind1.html
+|4,39,3,0,1743611560,"~/ind1.html"
+-'  3  0  ~/ind1.html
+|4,39,3,0,1743611560,"~/ind1.html"
+-'  3  0  ~/ind1.html
+|4,39,3,0,1743611560,"~/ind1.html"
+-'  3  0  ~/ind1.html
+|4,39,3,0,1743611560,"~/ind1.html"
+-'  3  0  ~/ind1.html
+|4,39,3,0,1743611560,"~/ind1.html"
+-'  1  0  ~/ind1.html
+|4,39,1,0,1743611542,"~/ind1.html"
+-'  1  0  ~/ind1.html
+|4,39,1,0,1743611542,"~/ind1.html"
+-'  1  0  ~/ind1.html
+|4,39,1,0,1743611542,"~/ind1.html"
+-'  1  0  ~/ind1.html
+|4,39,1,0,1743611542,"~/ind1.html"
+-'  1  0  ~/ind1.html
+|4,39,1,0,1743611542,"~/ind1.html"
+-'  1  0  ~/ind1.html
+|4,39,1,0,1743611542,"~/ind1.html"
+-'  1  0  ~/ind1.html
+|4,39,1,0,1743611542,"~/ind1.html"
+-'  1  0  ~/ind1.html
+|4,39,1,0,1743611542,"~/ind1.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  1  40  ~/ind.html
+|4,39,1,40,1743611476,"~/ind.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
+-'  13  0  ~/index3.html
+|4,39,13,0,1743438719,"~/index3.html"
 -'  13  0  ~/index3.html
 |4,39,13,0,1743438719,"~/index3.html"
 -'  1  0  ~/index3.html
 |4,39,1,0,1743438702,"~/index3.html"
--'  27  0  ~/index3.html
-|4,39,27,0,1743438676,"~/index3.html"
--'  15  0  ~/index3.html
-|4,39,15,0,1743438676,"~/index3.html"
 -'  1  0  ~/index3.html
-|4,39,1,0,1743438656,"~/index3.html"
--'  32  0  ~/index.html
-|4,39,32,0,1743438637,"~/index.html"
--'  32  0  ~/index.html
-|4,39,32,0,1743438637,"~/index.html"
--'  32  0  ~/index.html
-|4,39,32,0,1743438637,"~/index.html"
--'  32  0  ~/index.html
-|4,39,32,0,1743438637,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1743438621,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1743438621,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1743438621,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1743438621,"~/index.html"
--'  9  0  ~/index2.html
-|4,39,9,0,1743438601,"~/index2.html"
--'  9  0  ~/index2.html
-|4,39,9,0,1743438601,"~/index2.html"
--'  9  0  ~/index2.html
-|4,39,9,0,1743438601,"~/index2.html"
--'  9  0  ~/index2.html
-|4,39,9,0,1743438601,"~/index2.html"
--'  9  0  ~/index2.html
-|4,39,9,0,1743438601,"~/index2.html"
--'  9  0  ~/index2.html
-|4,39,9,0,1743438601,"~/index2.html"
--'  9  0  ~/index2.html
-|4,39,9,0,1743438601,"~/index2.html"
--'  9  0  ~/index2.html
-|4,39,9,0,1743438601,"~/index2.html"
--'  1  0  ~/index2.html
-|4,39,1,0,1743438589,"~/index2.html"
--'  1  0  ~/index2.html
-|4,39,1,0,1743438589,"~/index2.html"
--'  1  0  ~/index2.html
-|4,39,1,0,1743438589,"~/index2.html"
--'  1  0  ~/index2.html
-|4,39,1,0,1743438589,"~/index2.html"
--'  1  0  ~/index2.html
-|4,39,1,0,1743438589,"~/index2.html"
--'  1  0  ~/index2.html
-|4,39,1,0,1743438589,"~/index2.html"
--'  1  0  ~/index2.html
-|4,39,1,0,1743438589,"~/index2.html"
--'  1  0  ~/index2.html
-|4,39,1,0,1743438589,"~/index2.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  1  0  ~/project/index.html
-|4,39,1,0,1743316851,"~/project/index.html"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  32  0  ~/shell.sh
-|4,39,32,0,1742835926,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
--'  1  0  ~/shell.sh
-|4,39,1,0,1742835628,"~/shell.sh"
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1743438702,"~/index3.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/ind5.html
+	*	1743611652	0
+	"	3	0
+	^	3	0
+	.	2	4
+	+	2	4
+
+> ~/ind4.html
+	*	1743611638	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	2	0
+
+> ~/ind3.html
+	*	1743611578	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	2	0
+
+> ~/ind1.html
+	*	1743611557	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	2	0
+
+> ~/ind.html
+	*	1743611472	0
+	"	1	40
+	^	1	41
+	.	1	40
+	+	1	40
 
 > ~/index3.html
 	*	1743438714	0
