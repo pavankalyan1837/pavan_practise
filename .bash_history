@@ -262,3 +262,20 @@ vi index.html
 clear
 ls
 vi index3.html
+clear
+ls
+vi index3.html
+ls
+clear
+git init
+git add .
+git show
+clear
+git config --global --list
+git status
+git add index2.html index3.html
+git status
+git commit -m "dgf"
+git ls-files
+git log --oneline
+clear
