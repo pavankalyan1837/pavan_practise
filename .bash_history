@@ -279,3 +279,59 @@ git commit -m "dgf"
 git ls-files
 git log --oneline
 clear
+pwd
+ls
+rm -r
+rm -rf
+ls
+rm index.html imdex2.html index3.html
+ls
+re index2.html
+ls
+rm index2.html
+ls
+clear
+git init
+ls
+git ls-files
+clear
+git config --global user.name "kalyan"
+git config --global user.email "kalyan1234@gmail.com"
+git config --global --list
+git status
+git add .
+git commit -m "just checking"
+git status
+cclear
+clear
+git status
+touch ind.html ind1.html ind2.html 
+ls
+vi ind.html
+ls
+clear
+ls
+git add ind.html
+ls
+vi ind1.html
+vi ind3.html
+ls
+git add .
+git status
+vi ind4.html
+vi ind5.html
+git add -A
+git status
+vi ind6.html
+vi ind7.html
+git add ind6.html ind7.html
+git status
+git commit ind.html -m "hello first commit"
+git status
+git commit ind1.html ind2.html -m "hello secong commit"
+git status
+git commit -m "hello third commit"
+git status
+git ls-files
+git lod
+git log
